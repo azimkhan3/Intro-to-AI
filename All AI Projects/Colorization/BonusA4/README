@@ -1,0 +1,2 @@
+First upload all of the pictures that will be train the model into a folder and add the folder path in line 11 of autoencoder_training.py
+Then run autoencoder_training.py in order to train the model, then run the model_test.py file to test the model  
